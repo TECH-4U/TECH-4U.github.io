@@ -224,7 +224,11 @@ footer p strong {
   -moz-transition: all 500ms ease;
   transition: all 500ms ease;
 }
-
+h10{
+  text-align: center;
+  font-family:"Poppins",sans-serif;
+  font-size: 62px;
+padding: 320px;}
 @media screen and (max-width: 768px) {
     .authorWindow{
          width: 210px;
@@ -239,5 +243,9 @@ footer p strong {
           font-size: 14px;
     }
 }
+.disc{
+  text-align: center;
+}
+
 
 
